@@ -1,0 +1,3 @@
+Based off of my previous emoji, a speech bubble with no words and one small warm circle inside.
+Here the emoji repeats. Every frame a new bubble appears at a random position and size, and each core gets a slightly different warm colour between yellow and orange. The counter bubblesSoFar goes up by one each time until the crowd is complete.
+It plays with the idea that quietness isn't absence, many people can be happy at once without making noise.
