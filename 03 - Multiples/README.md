@@ -1,0 +1,3 @@
+Every day I repeat small actions on my phone: swiping, scrolling, waiting for something to load, and checking notifications. A loop in code does the same, repeating one instruction again and again with a small change each time.
+In my sketch, every circle follows the same rule, but the number n is slightly different for each one, so the pattern moves across the grid. This looks like a screen loading or a feed that never stops. The red circles are like notification badges: they stand out for a moment and then move on.
+Krauss (1979) says grids repeat and never tell a story. My sketch is like that, because it has no start or end and just keeps going, like the repetition in my daily screen use.
