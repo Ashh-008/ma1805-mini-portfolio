@@ -1,3 +1,0 @@
-Most emojis show happiness with a smile. This one has no face. It is a speech bubble with no words in it, and inside sits one small warm circle with a soft glow. The bubble stays quiet and the happiness stays inside it, like a feeling that doesn't need to be announced.
-
-I used simple shapes (a rounded rectangle, a triangle and circles) and made the colours do the work. Cool blue/grey for quietness, warm yellow for joy. It resists the idea that being happy has to be loud, visible or expressed through a smile.
